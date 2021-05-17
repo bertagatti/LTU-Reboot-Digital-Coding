@@ -1,3 +1,17 @@
 a{
     color:grey;
 }
+
+header {
+    display: flex;
+    width:90%;
+    margin:0 auto;
+    justify-content:space-between;
+}
+ol {
+    display: flex;
+    justify-content: space-evenly;
+    width:380px;
+
+
+}
